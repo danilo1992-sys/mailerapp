@@ -13,3 +13,4 @@ schema==0.7.5
 Werkzeug==2.0.2
 Flask 
 flask
+gunicorn
