@@ -1,0 +1,13 @@
+click==8.0.3
+colorama==0.4.4
+contextlib2==21.6.0
+Flask==2.0.2
+gunicorn==20.1.0
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+mysql-connector-python==8.0.27
+protobuf==3.19.1
+python-dotenv==0.19.2
+schema==0.7.5
+Werkzeug==2.0.2
