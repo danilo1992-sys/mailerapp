@@ -11,6 +11,3 @@ protobuf==3.19.1
 python-dotenv==0.19.2
 schema==0.7.5
 Werkzeug==2.0.2
-Flask 
-flask
-gunicorn
